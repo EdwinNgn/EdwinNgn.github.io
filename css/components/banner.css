@@ -1,0 +1,19 @@
+.banner {
+  background-image: url('https://www.bouyguestelecom.fr/static/cms/assets/media/images/forfaits/seduction_v4/covers/bg_cover_byou_lg.jpg');
+  color: white;
+  height: 500px;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.banner h1 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.banner p {
+  color: white;
+}
+
