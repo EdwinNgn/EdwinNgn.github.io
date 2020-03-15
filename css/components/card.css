@@ -3,10 +3,11 @@
   text-align: center;
 }
 
-
+.offer h2{
+  margin-bottom:30px;
+}
 .card {
   width: 400px;
-  height: 500px;
   box-shadow: 0 0 2px black;
   display: flex;
   flex-direction: column;
@@ -24,6 +25,10 @@
 
 }
 
+.price p{
+  margin:0;
+}
+
 .bbox h6{
   background-color: #EDA0D4;
   color:white;
@@ -31,8 +36,7 @@
 
 .price {
   color:#EDA0D4;
-  height: 131px;
-  border-bottom: solid #009DCC;
+  height: 105px;
 }
 
 .price h2{
@@ -43,3 +47,27 @@
   display: flex;
   justify-content: space-between;
 }
+
+.sms{
+  padding: 10px 0px;
+  background-color: rgb(243,243,243);
+  color:#EDA0D4;
+}
+
+.sms p {
+  margin: 0;
+  margin:auto;
+}
+
+.data-details{
+  padding: 10px 0px;
+  color:#EDA0D4;
+}
+
+.destination{
+  padding: 10px 0px;
+  background-color: rgb(243,243,243);
+  color:#EDA0D4;
+}
+
+

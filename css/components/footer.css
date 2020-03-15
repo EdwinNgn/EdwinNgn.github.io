@@ -1,14 +1,15 @@
 .footer {
   height: 150px;
-  background-color: #2C2B2B;
+  background-color: #009DCC;
   margin-top: 20px;
   text-align:center;
 }
 
 .footer a {
   display: inline-block;
-  color: #1DDD88;
-  font-size: 50px;
+  color: white;
+  font-size: 17px;
+  margin: 20px;
 }
 
 .socials a {
