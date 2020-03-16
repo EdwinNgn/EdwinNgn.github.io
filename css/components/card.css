@@ -71,3 +71,102 @@
 }
 
 
+@media (max-width: 535px) {
+  .container{
+    width: 100%;
+    padding: 0px;
+  }
+
+  .banner{
+    margin-bottom: 10px;
+  }
+
+  .offer h2{
+  margin-bottom:15px;
+  }
+
+  .card {
+    box-shadow: 0 0 2px black;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 5px 5px;
+  }
+
+  .card h2{
+    margin-top: 10px;
+    font-size: 20px;
+    margin-bottom: 5px;
+  }
+
+  .card p{
+    font-size:10px;
+  }
+
+  .bbox h6{
+    background-color: #EDA0D4;
+    color:white;
+    font-size: 10px;
+  }
+
+  .price {
+    color:#EDA0D4;
+    height: 68px;
+  }
+
+  .price h2{
+    color:#EDA0D4;
+
+  }
+
+  .price h1{
+    font-size: 20px;
+  }
+
+  .cards {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .sms{
+    padding: 10px 0px;
+    background-color: rgb(243,243,243);
+    color:#EDA0D4;
+  }
+
+  .sms p {
+    margin: 0;
+    margin:auto;
+    font-size: 8px;
+  }
+
+  .data-details{
+    padding: 10px 0px;
+    color:#EDA0D4;
+  }
+
+  .data-details p {
+    font-size: 8px;
+  }
+
+  .destination{
+    padding: 10px 0px;
+    background-color: rgb(243,243,243);
+    color:#EDA0D4;
+  }
+
+  .destination p {
+    font-size: 8px;
+  }
+
+  .category {
+    padding:3px;
+    margin-bottom: 3px;
+  }
+
+  .category p {
+    margin: 0px;
+  }
+
+}
+

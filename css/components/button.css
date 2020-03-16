@@ -43,3 +43,15 @@
   margin-top: 104px;
   margin-bottom: 30px;
 }
+
+@media (max-width: 535px) {
+  .btn-detail {
+    font-size: 8px;
+    margin-top: 5px;
+  }
+
+  .btn-end{
+  margin-top: 38px;
+  margin-bottom: 10px;
+}
+}
