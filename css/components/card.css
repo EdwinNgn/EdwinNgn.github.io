@@ -92,6 +92,7 @@
     flex-direction: column;
     text-align: center;
     margin: 5px 5px;
+    background-color: white;
   }
 
   .card-offer h2{
